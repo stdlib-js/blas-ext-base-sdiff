@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-19)
+## Unreleased (2026-07-30)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`be0b1f5`](https://github.com/stdlib-js/stdlib/commit/be0b1f501a4af5546f7ff6ee979585e22bdd56a6) - **chore:** clean-up [(#13780)](https://github.com/stdlib-js/stdlib/pull/13780) _(by Philipp Burckhardt, Athan Reines)_
 -   [`9e3a4ba`](https://github.com/stdlib-js/stdlib/commit/9e3a4baead056e16d5a6a8cf9d91018c6aba20a0) - **fix:** add missing `API_SUFFIX` and fix types _(by Athan Reines)_
 -   [`f1813da`](https://github.com/stdlib-js/stdlib/commit/f1813dabd21da054ff60d0b76c758c5c28ea0dfc) - **chore:** propagate recent fixes to sibling packages [(#11723)](https://github.com/stdlib-js/stdlib/pull/11723) _(by Philipp Burckhardt)_
 -   [`7c287ff`](https://github.com/stdlib-js/stdlib/commit/7c287ff7a9a2e2b4b3f07afd719a440f8e6bccf2) - **feat:** add `blas/ext/base/sdiff` [(#10901)](https://github.com/stdlib-js/stdlib/pull/10901) _(by Muhammad Haris)_
